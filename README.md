@@ -1,5 +1,3 @@
-![GitHub repo size](https://img.shields.io/github/repo-size/DupieM/DuPlessisMarine_andME_Entertainment)
-![GitHub watchers](https://img.shields.io/github/watchers/DupieM/DuPlessisMarine_andME_Entertainment)
 ![GitHub language count](https://img.shields.io/github/languages/count/DupieM/DuPlessisMarine_andME_Entertainment)
 ![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/DupieM/DuPlessisMarine_andME_Entertainment)
 
