@@ -1,3 +1,8 @@
+![GitHub repo size](https://img.shields.io/github/repo-size/DupieM/DuPlessisMarine_andME_Entertainment)
+![GitHub watchers](https://img.shields.io/github/watchers/DupieM/DuPlessisMarine_andME_Entertainment)
+![GitHub language count](https://img.shields.io/github/languages/count/DupieM/DuPlessisMarine_andME_Entertainment)
+![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/DupieM/DuPlessisMarine_andME_Entertainment)
+
 ## <p align="center" style="text-decoration: none !important;padding:0;margin:0;">Mareli Lourens, Mariné du Plessis <br> 221119, 221326, <br> Interactive Development 300 - Term 1</p>
 
 <p align="center">
