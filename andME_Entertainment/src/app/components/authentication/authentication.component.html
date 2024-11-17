@@ -1,0 +1,40 @@
+<div class="inventory-stock">
+    <div class="main">
+        <mat-card class="example-card">
+            <mat-card-header class="title">
+                Log In
+            </mat-card-header>
+            <br>
+            <mat-card-content>
+                <form [formGroup]="login" (ngSubmit)="onSubmit()">
+                    <mat-card-title class="subtitle">Phone Number</mat-card-title>
+
+                    <mat-card-subtitle>
+                        <div>
+                            <select class="Phone_Codes">
+                                <option value="SA">+27</option>
+                                <option value="J">+81</option>
+                                <option value="SK">+82</option>
+                            </select>
+                            <input class="Phone_Num" type="number" placeholder="Phone Number" formControlName="phone_number">
+                        </div>
+                    </mat-card-subtitle>
+
+                    <br>
+                    <mat-card-title class="box">
+                        <h3 class="subtitle3">What is the answer to your Question?</h3>
+                    </mat-card-title>
+                    <mat-card-subtitle>
+                        <input class="pin" type="text" placeholder="Pin" formControlName="unique_answer">
+                    </mat-card-subtitle>
+                    <br>
+                    <br>
+                    <br>
+                    <br>
+                    <br>
+                    <input type="submit" class="login_but" value="Log In" />
+                </form>
+            </mat-card-content>
+        </mat-card>
+    </div>
+</div>
